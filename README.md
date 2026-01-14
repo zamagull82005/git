@@ -71,4 +71,4 @@ and the name as (depending on your mood):
 [Documentation/gitcvs-migration.adoc]: Documentation/gitcvs-migration.adoc
 [Documentation/SubmittingPatches]: Documentation/SubmittingPatches
 [Documentation/CodingGuidelines]: Documentation/CodingGuidelines
-[po/README.md]: po/README.md
+
